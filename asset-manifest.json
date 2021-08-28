@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactHotelMenu/static/css/main.90c3eb61.chunk.css",
+    "main.js": "/ReactHotelMenu/static/js/main.e41a46a0.chunk.js",
+    "main.js.map": "/ReactHotelMenu/static/js/main.e41a46a0.chunk.js.map",
+    "runtime-main.js": "/ReactHotelMenu/static/js/runtime-main.78f04d36.js",
+    "runtime-main.js.map": "/ReactHotelMenu/static/js/runtime-main.78f04d36.js.map",
+    "static/js/2.e2b021a5.chunk.js": "/ReactHotelMenu/static/js/2.e2b021a5.chunk.js",
+    "static/js/2.e2b021a5.chunk.js.map": "/ReactHotelMenu/static/js/2.e2b021a5.chunk.js.map",
+    "index.html": "/ReactHotelMenu/index.html",
+    "static/css/main.90c3eb61.chunk.css.map": "/ReactHotelMenu/static/css/main.90c3eb61.chunk.css.map",
+    "static/js/2.e2b021a5.chunk.js.LICENSE.txt": "/ReactHotelMenu/static/js/2.e2b021a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78f04d36.js",
+    "static/js/2.e2b021a5.chunk.js",
+    "static/css/main.90c3eb61.chunk.css",
+    "static/js/main.e41a46a0.chunk.js"
+  ]
+}
